@@ -1,2 +1,2 @@
 # resources-media
-Virus
+Virus .hi
